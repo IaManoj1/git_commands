@@ -1,0 +1,12 @@
+
+manoj@manoj MINGW64 /d/projects/git (main)
+$ pwd
+/d/projects/git
+
+manoj@manoj MINGW64 /d/projects/git (main)
+$ ls
+hi.txt
+
+manoj@manoj MINGW64 /d/projects/git (main)
+$ ls -a
+./  ../  .git/  hi.txt
